@@ -1,0 +1,54 @@
+!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Animales | Zoológico Mundo Animal</title>
+  <link rel="stylesheet" href="estilos.css" />
+</head>
+<body>
+  <header>
+    <h1>Animales del Zoológico</h1>
+    <nav>
+      <a href="file:///C:/Users/S402D/Documents/gissel/Untitled-1.html">Inicio</a>
+      <a href="file:///C:/Users/S402D/Documents/gissel/Untitled-2.html">Animales</a>
+      <a href="file:///C:/Users/S402D/Documents/gissel/Untitled-3.html">Contacto</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Conoce a nuestros animales</h2
+    <div class="animal">
+      <h3>León</h3>
+      <img src="https://static.vecteezy.com/system/resources/thumbnails/026/525/162/small/lion-animal-isolated-photo.jpg" alt="León" class="imagen">
+      <p>El rey de la selva, fuerte y majestuoso.</p>
+    </div>
+    <div class="animal">
+      <h3>Elefante</h3>
+      <img src="https://media.istockphoto.com/id/1452952557/es/foto/big-tusker-craig-en-amboseli-kenia-con-un-cielo-nublado-en-el-fondo.jpg?s=612x612&w=0&k=20&c=w-ahlv0Q_PFFkT3z5gUWQRDBf4amjWCG8HCSe2KdfrY=" alt="Elefante" class="imagen">
+      <p>El mamífero terrestre más grande del mundo.</p>
+    </div>
+    <div class="animal">
+      <h3>Pingüino</h3>
+      <img src="https://cdn.nubika.es/wp-content/uploads/2023/05/03153705/caracteristicas-pinguino-descubrelas.jpg" alt="Pingüino" class="imagen">
+      <p>Un ave que no vuela, pero nada como pez.</p>
+    </div>
+    <div class="animal">
+      <h3>Jirafa</h3>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-lARwhbVD0B2DIo8nXuwjXqJuwnIhNwBokQ&s" alt="Jirafa" class="imagen">
+      <p>El animal más alto, con un cuello impresionante.</p>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2025 Zoológico Mundo Animal</p>
+  </footer>
+</body>
+<head>
+    <meta charset="UTF-8">
+    <title>Color de fondo</title>
+    <style>
+        body {
+            background-color: hsl(192, 100%, 48%); /* Cambia este valor por el color que desees */
+        }
+    </style>
+</head>
+<body>
+</html>

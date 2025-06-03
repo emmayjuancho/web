@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Contacto | Zoológico Mundo Animal</title>
+  <link rel="stylesheet" href="estilos.css" />
+</head>
+<body>
+  <header>
+    <h1>Contáctanos</h1>
+    <nav>
+      <a href="file:///C:/Users/S402D/Documents/gissel/Untitled-1.html">Inicio</a>
+      <a href="file:///C:/Users/S402D/Documents/gissel/Untitled-2.html">Animales</a>
+      <a href="fifile:///C:/Users/S402D/Documents/gissel/Untitled-3.html">Contacto</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Escríbenos</h2>
+    <form>
+      <label for="nombre">Nombre:</label><br>
+      <input type="text" id="nombre" name="nombre" required><br><br>
+
+      <label for="email">Correo:</label><br>
+      <input type="email" id="email" name="email" required><br><br>
+
+      <label for="mensaje">Mensaje:</label><br>
+      <textarea id="mensaje" name="mensaje" rows="4" required></textarea><br><br>
+
+      <button type="submit">Enviar</button>
+    </form>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Fzoo-map&psig=AOvVaw2dZ1PTdpEeXYXZVA8hhl-O&ust=1748636877954000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjpgJXCyY0DFQAAAAAdAAAAABAE" alt="Mapa del zoológico" class="imagen">
+  </main>
+  <footer>
+    <p>&copy; 2025 Zoológico Mundo Animal</p>
+  </footer>
+</body>
+<head>
+    <meta charset="UTF-8">
+    <title>Color de fondo</title>
+    <style>
+        body {
+            background-color: #564a8a; /* Cambia este valor por el color que desees */
+        }
+    </style>
+</head>
+<body>
+</html>
